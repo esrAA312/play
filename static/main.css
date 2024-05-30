@@ -1,0 +1,51 @@
+.card {
+    transition: 0.7s ease;
+    box-shadow: 0 5px 15px rgba(1 1 1/ 15);
+    border-radius: 500px;
+    margin: 5px;
+
+}
+.card:hover {
+    transform: scale(1.1);
+}
+.nav-item {
+    display: flex;
+    flex-wrap: nowrap; /* Prevent wrapping to next line */
+}
+.nav-link {
+    margin-right: 10px; /* Adjust margin between links if needed */
+}
+.bi-github {
+    font-size: 25px; /* Adjust the font size as needed */
+}
+
+  /* $$info page $$*/
+/* Define the color of the button when pressed */
+.accordion-button:active {
+    background-color: #ffc107;  /* You can replace the color with the one you desire */
+    color: white; /* Text color when the button is pressed */
+}
+
+
+/* Define the color of the button after it's opened */
+.accordion-button[aria-expanded="true"] {
+    background-color: #ffc107; /* You can replace the color with the one you desire */
+    color: white; /* Text color when the button is opened */
+}
+
+
+.accordion-header button {
+    font-size: 30px; /* Change to the desired font size */
+}
+
+    /* Customize the accordion button color */
+.accordion-button {
+        background-color: #ffc107; /* Change to the desired color */
+        color: #090909; /* Change to the desired text color */
+    }
+
+    /* Customize the accordion body color */
+.accordion-body {
+        background-color: #ffffff; /* Change to the desired color */
+        color: #000000; /* Change to the desired text color */
+    }
