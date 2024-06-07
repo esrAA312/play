@@ -11,8 +11,19 @@ Here we will explain to you everything you need to know about our special page. 
 
 ## Introduction 
 
-Our page displays a group of interactive games that can be played with another player or with artificial intelligence, (AI) according to your choice. You can play over and over again as you wish . 🤞 
+Our page displays a group of interactive games that can be played with another player or with artificial intelligence, (AI) according to your choice. You can play over and over again as you wish . 🤞
 
+    - project blog article:
+        Esraa Yahya: https://www.linkedin.com/posts/esraa-yahya-5a7207285_lets-play-project-purpose-our-project-activity-7204956384277196800-Q22W
+        
+        Yusra Yahya: https://www.linkedin.com/posts/yusra-yahya-60b62229a_lets-play-project-purpose-our-project-activity-7204956220997148672-IMLO
+        
+        Asia Ahmed:https://www.linkedin.com/posts/asia-easa-b2b3a4285_lets-play-project-purpose-our-project-activity-7204954775539351553-Ox-N?utm_source=share&utm_medium=member_desktop
+        
+    - author(s) LinkedIn:
+        Esraa Yahya: www.linkedin.com/in/esraa-yahya-5a7207285
+        Yusra Yahya: www.linkedin.com/in/yusra-yahya-276ab7284
+        Asia Ahmed: www.linkedin.com/in/asia-easa-b2b3a4285?trk=contact-info
 ## How to use it?
  You can move between games easily, and if you encounter any difficulty in understanding any game, you can go to the information page to find out everything you need. 
 
