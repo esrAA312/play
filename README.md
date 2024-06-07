@@ -1,4 +1,5 @@
-![Uploading Screenshot 2024-06-07 144700.png…]()
+
+
 
 ![Logo](https://imgur.com/BZOLXin.png)
 
@@ -54,3 +55,5 @@ We are 3 friends united by our love for programming in all its details. If you w
 ## Wait !✋️ 
 
 do not forget to send us your opinion through the suggestions bottom in the page. 
+![Logo](https://github.com/esrAA312/play/assets/138700352/b28efbf2-f1ec-483c-8eb4-8ab80bba98f3)
+
