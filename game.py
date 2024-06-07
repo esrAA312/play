@@ -810,7 +810,7 @@ def peng():
 @app.route("/")
 @app.route("/home")
 def home():
-    return render_template('home.html', games=games, Games2=Games2)
+    return render_template('Index.html', games=games, Games2=Games2)
 @app.route('/game/<int:game_id>')
 def start_game(game_id):
     if game_id == 1:
